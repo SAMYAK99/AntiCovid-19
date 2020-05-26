@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">AntiCovid-19</string>
+    <string name="navigation_drawer_open">Open Navigation drawer</string>
+    <string name="navigation_drawer_close">Close Navigation drawer</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_country">Country</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="no_corona_news">No Corona News found.</string>
+
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+
+
 </resources>
