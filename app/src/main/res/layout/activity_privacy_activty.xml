@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".PrivacyActivty">
+
+
+    <TextView
+        android:id="@+id/textView11"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="43dp"
+        android:layout_marginBottom="69dp"
+
+        android:fontFamily="monospace"
+        android:text="\n\nBelow are the Sources I used to Collect Data  - \n\n 1: Information Sources: https://www.who.int/emergencies/diseases/novel-coronavirus-2019 \n\n 2-Stats API: https://github.com/novelcovid/api \n\n 3: Corona Map : https://cdmoro.github.io/covid-19-stats  \n\n 4: News API : https://news.google.com/rss/search?q=Corona%20Case%20update%20in%20india.hl=en-INgl=IN.ceid=IN:en
+\n\n 5: Apollo Chat Bot : https://covid.apollo247.com/?utm_source=linkedin.utm_medium=organic.utm_campaign=bot_scanner"
+        android:textColor="#000000"
+        android:textSize="20sp"
+
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.036" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
